@@ -1,1 +1,10 @@
 This directory has all the imagesused in this learning project.
+![waving-hand](https://github.com/user-attachments/assets/e18c201a-f15a-4f86-95fa-d01a8ebf630e)
+![react](https://github.com/user-attachments/assets/f8106046-18e5-4fc4-a788-d801e2410707)
+![phone](https://github.com/user-attachments/assets/edeb382b-f3a0-4230-828b-d9bb5b808b6b)
+![js](https://github.com/user-attachments/assets/43e35275-86c6-4386-b8f8-6a9a7c40e1c5)
+![java](https://github.com/user-attachments/assets/164cc489-f2b5-47fa-b398-ba708a5be547)
+![html5](https://github.com/user-attachments/assets/27632807-70d1-4b05-b0e7-ccf0dd26c7b9)
+![envelope](https://github.com/user-attachments/assets/0cae9b8c-e71f-498f-8bb1-a09e565a56e7)
+![CSS3](https://github.com/user-attachments/assets/5da7897b-5c88-44f6-b887-dad1486222eb)
+![checkmark--outline](https://github.com/user-attachments/assets/b09c4ebf-0e47-4198-85d2-856a9eca1d98)
